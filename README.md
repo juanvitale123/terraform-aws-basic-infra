@@ -1,10 +1,10 @@
-# 🚀 AWS Infrastructure with Terraform
+#  AWS Infrastructure with Terraform
 
 This project automates the deployment of a basic infrastructure on AWS using Terraform. It includes a VPC, public subnet, EC2 instance with Apache, a security group, and an S3 bucket — all managed as code (IaC).
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Terraform
 - AWS EC2
@@ -14,7 +14,7 @@ This project automates the deployment of a basic infrastructure on AWS using Ter
 
 ---
 
-## 🛠️ What It Deploys
+##  What It Deploys
 
 1. A custom VPC with CIDR block `10.0.0.0/16`
 2. A public subnet in `us-east-1a`
@@ -25,7 +25,7 @@ This project automates the deployment of a basic infrastructure on AWS using Ter
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```bash
 terraform-aws-basic-infra/
